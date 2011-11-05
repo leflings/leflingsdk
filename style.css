@@ -1,0 +1,12 @@
+/*
+Theme Name: leflingsdk
+Theme URI: http://leflings.dk/
+Description: Home of Niels Flemming S. Madsen. Blog about my interests and various other bits
+Version: 1.0
+Author: Niels Flemming S. Madsen
+Author URI: http://leflings.dk/
+Tags: html, css, jquery, php, ruby, blog
+*/
+
+@import url('styles/960.css');
+@import url('styles/custom.css');
