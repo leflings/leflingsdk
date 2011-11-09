@@ -18,10 +18,9 @@ body {
 a {
 	color: #a07e64;
 	text-decoration: none;
-	-webkit-transition-duration: .5s; 
-	-webkit-transition-property: color;
-	-moz-transition-duration: .5s; 
-	-moz-transition-property: color;
+	-webkit-transition: color 0.3s linear;
+	-moz-transition: color 0.3s linear;
+	transition: color 0.3s linear;
 }
 
 a:hover {
